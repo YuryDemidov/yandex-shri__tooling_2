@@ -6,6 +6,10 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+# IDE specific files
+.idea
+.vscode
+
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
@@ -102,6 +106,3 @@ dist
 
 # TernJS port file
 .tern-port
-
-# tutorial files
-dist
