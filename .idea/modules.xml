@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/eslint-plugin-lodash-to-native.iml" filepath="$PROJECT_DIR$/.idea/eslint-plugin-lodash-to-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test-lodash-project/.idea/test-lodash-project.iml" filepath="$PROJECT_DIR$/../test-lodash-project/.idea/test-lodash-project.iml" />
+    </modules>
+  </component>
+</project>
